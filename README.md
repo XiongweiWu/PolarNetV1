@@ -1,6 +1,6 @@
 # PolarNetV1
 ICLR Poster
 
-So many deadlines... I will try to clean the code and release the code and models asap.
+I have to finish the nips ddl on 5.27, and I will upload all the codebase after that time. I feel extremely sorry for my delay.
 
         ----Xiongwei, 2021.05.01
